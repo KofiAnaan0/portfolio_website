@@ -13,7 +13,7 @@ export default function Page() {
     <section className="space-y-6">
       <H1>Projects</H1>
       <section className="space-y-3">
-        <H2>LLM D'vt | Portfolio Creation</H2>
+        <H2>LLM D&apos;vt | Portfolio Creation</H2>
         <p>
           This portfolio was built using <strong>Next.js</strong> and{" "}
           <strong>TypeScript</strong> for both the frontend and backend, with
