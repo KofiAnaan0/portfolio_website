@@ -17,7 +17,7 @@ export default function Home() {
           <H1 className="text-center sm:text-start">Hi, Santos here 👋🏾</H1>
 
           <p className="text-center sm:text-start">
-            I&apos;m an AI/ML engineer with extensive experience working on a
+            I am an AI/ML engineer with extensive experience working on a
             variety of data science, data analysis, and large language model
             (LLM) projects. I am passionate about all things AI and data-driven,
             constantly exploring new advancements in the field.
