@@ -39,7 +39,7 @@ export default function Home() {
 
         <p>
           Click the little icon <Bot className="inline pb-1" /> to activate the
-          AI chatbot. You can ask it questions about me, the projects I've
+          AI chatbot. You can ask it questions about me, the projects I&apos;ve
           worked on, and it will pull relevant information from this website.
           The bot can also provide helpful links to guide you to more detailed
           information.
